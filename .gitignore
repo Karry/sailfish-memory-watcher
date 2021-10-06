@@ -1,0 +1,14 @@
+# IDEs
+/.idea
+
+# build directories
+/RPMS
+/rpmbuilddir-aarch64
+
+# rpm build file lists
+/debugfiles.list
+/debuglinks.list
+/debugsources.list
+/documentation.list
+/elfbins.list
+/debugsourcefiles.list

@@ -1,0 +1,3 @@
+[submodule "memory-watcher"]
+	path = memory-watcher
+	url = git@github.com:Karry/memory-watcher.git
