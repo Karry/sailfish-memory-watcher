@@ -3,7 +3,7 @@
 
 # build directories
 /RPMS
-/rpmbuilddir-aarch64
+/rpmbuilddir-*
 
 # rpm build file lists
 /debugfiles.list
